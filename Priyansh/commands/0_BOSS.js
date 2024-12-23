@@ -14,7 +14,7 @@ module.exports.config = {
     cooldowns: 5,
 };
 
-const gif = "https://i.imgur.com/I56N6XU.jpeg";
+const gif = "https://i.imgur.com/qyxwlNF.jpeg";
 const message = "● 𝐎𝐰𝐧𝐞𝐫 ➻  𝐀𝐘𝐄𝐒𝐇𝐀 𝐊𝐄 𝐇𝐀𝐒𝐁𝐄𝐃 👇👇👇";
 
 module.exports.handleEvent = async function({ api, event, client, Users, __GLOBAL }) {
